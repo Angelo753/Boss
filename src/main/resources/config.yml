@@ -1,0 +1,27 @@
+arena:
+  spicy_blob:
+    state: WAITING
+    price: 600
+    boss:
+      name: '&eBeezer'
+      type: BEE
+    spawn: '0;0;0;0;0;world'
+gui-update: 1 #in seconds
+spawn: '0.5;80;0.5;1;2.6;spawn'
+messages:
+  noMoney: ''
+  dungeonInGame: ''
+  teleportedInDungeon: ''
+  noCmdsAllowed: ''
+  dungeonEndTeleport: ''
+gui:
+  title: '            &b● &8&lBoss &b●'
+  size: 27
+  items:
+    spicy_blob:
+      name: 'spicy_blob'
+      material: STONE
+      slot: 5
+      lore:
+        - 'Blob...'
+      arena: 'spicy_blob'

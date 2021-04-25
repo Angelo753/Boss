@@ -1,0 +1,7 @@
+name: AngelBoss
+version: @version@
+main: cz.angelo.angelboss.Main
+api-version: 1.16
+authors: [ Angelo753 ]
+commands:
+  boss:
